@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
                     homeScreen();
 
 
-                    //n브런치
+                    //n브런치 테스트
 
                 }
             }
