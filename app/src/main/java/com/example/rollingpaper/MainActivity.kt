@@ -21,7 +21,10 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     homeScreen();
-                    //테스트합니다...
+
+
+                    //브런치 테스트
+
                 }
             }
         }
